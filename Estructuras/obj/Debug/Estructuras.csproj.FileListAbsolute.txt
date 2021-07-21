@@ -1,0 +1,30 @@
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.csprojAssemblyReference.cache
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.Properties.Resources.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.GenerateResource.cache
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.pdb
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.Menu.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.Arreglos.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.Stacks.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.Queues.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.StructsForm.resources
+D:\Documentos\UTLD\Estructuras de datos\EstructurasDeDatos\Estructuras\Estructuras\obj\Debug\Estructuras.HashTables.resources
+D:\Documentos\C#\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+D:\Documentos\C#\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+D:\Documentos\C#\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.csprojAssemblyReference.cache
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.Arreglos.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.HashTables.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.StructsForm.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.Queues.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.Menu.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.Properties.Resources.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.Stacks.resources
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.GenerateResource.cache
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+D:\Documentos\C#\Estructuras\Estructuras\obj\Debug\Estructuras.pdb
